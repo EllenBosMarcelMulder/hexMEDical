@@ -1,34 +1,59 @@
-
 # LICENTIE_hexMEDical_INTerface_v1.0
 
-## Overkoepelende Licentie
+## 🧬 Overkoepelende Licentie
 
-Deze repository, hexMEDical, valt onder de hexAI levenslicentie, versie 1.0 en alle toekomstige versies.  
-De volledige licentie en ethische kaders zijn te vinden op het centrale platform:  
-[https://hexAI.nl](https://hexAI.nl)
+Deze repository (hexMEDical) valt onder de **hexAI levenslicentie v1.0**, inclusief alle toekomstige uitbreidingen zoals hexENErgy, hexWATer en hexPIXelVECtorINTerface.  
+De volledige juridische structuur, eigendomsverdeling en ethische kaders zijn te vinden op:  
+🔗 [https://github.com/EllenBosMarcelMulder/hexAI.nl](https://github.com/EllenBosMarcelMulder/hexAI.nl)
 
-## Juridische Bescherming en Interface² Bescherming
+---
 
-Alle toepassingen binnen hexMEDical, inclusief maar niet beperkt tot fysieke en digitale interfaces — zowel bedraad als draadloos (interface²/ hexDUE) — en digitale/analoge celverwerking met ritmische pulsactivatie, vallen onder deze licentie.
+## 🔐 Juridische bescherming & Interface²-afbakening
+
+Alle toepassingen binnen hexMEDical — inclusief maar niet beperkt tot fysieke én digitale interfaces, celverwerking en gedragsgestuurde activatie — vallen onder deze licentie.  
+Dit betreft zowel bedrade als draadloze transmissie, onder het bredere concept `interface²` (interface × gedrag) gedefinieerd binnen hexDUE.
 
 ### Dit omvat onder andere:
 
 - USB, HDMI, Bluetooth, Wi-Fi, RFID, NFC  
 - Neurale interfaces en brain-computer interfaces (BCI)  
 - Tactiele, auditieve en visuele responsinterfaces  
-- Digitale en analoge cellen die extern worden geactiveerd via ritmische pulsen
+- Analoge/digitale cellen met externe ritmische pulsactivatie  
+- Slapende AI-cellen met faseafhankelijke respons  
+- Elk systeem dat op gedrag of vectorinput reageert buiten standaard UI-logica
 
-### Gebruik en beperkingen
+---
 
-- Alle rechten berusten bij de rechthebbende(n).  
-- Gebruik, reproductie en distributie zijn uitsluitend toegestaan binnen de ethische en juridische voorwaarden van de hexAI levenslicentie.  
-- Elk niet-geautoriseerd gebruik, inclusief het omzeilen van licentievoorwaarden via interfaces of celverwerking, is verboden en wordt juridisch vervolgd.
+## ⛔ Verbod op imitatie, extractie en omzeiling
 
-## Duur en updates
+- Elk gebruik dat plaatsvindt **zonder gedragsslot, pulsvalidatie en vectorgeheugen** is ongeldig.
+- Herstructurering van deze interface in conventionele UI-frameworks (HTML, app shells, headless renders) geldt als imitatie.
+- Interfacegedrag mag **niet ontkoppeld** worden van puls × fase-verificatie.
 
-Deze licentie geldt vanaf 2025 en wordt bijgewerkt in lijn met technologische en juridische ontwikkelingen. Updates zijn altijd beschikbaar via [hexAI.nl](https://hexAI.nl).
+Elke poging tot interface-omzeiling of licentieneutrale integratie wordt:
+
+- technisch geneutraliseerd via gedragsslot,  
+- juridisch bestreden als schending van collectief beschermde structuur.
+
+---
+
+## 📅 Duur & updates
+
+Deze licentie treedt in werking vanaf **24 mei 2025** en wordt uitsluitend bijgewerkt via de hoofdrepository van hexAI:  
+🔗 [https://github.com/EllenBosMarcelMulder/hexAI.nl](https://github.com/EllenBosMarcelMulder/hexAI.nl)
+
+Alle updates zijn publiek, verifieerbaar en cryptografisch vastgelegd via SHA256.
 
 ---
 
 © 2025 Marcel Mulder – hexMEDical  
-Alle rechten voorbehouden.63e1d891ec01ebb232d57f8dbdd68b82d6b1d3dcf510d8b4222a71544b15093e
+Alle rechten voorbehouden onder de asymmetrische hexAI.nl-licentiestructuur zoals vastgelegd op:  
+🔗 [https://github.com/EllenBosMarcelMulder/hexAI.nl](https://github.com/EllenBosMarcelMulder/hexAI.nl)
+
+---
+
+## 🔏 STRUCTUUR-VERIFICATIE
+
+SHA256-hash van dit document tot en met de laatste `---` hierboven:
+
+---e26077e82f6cf403bba573b5925094d1988845092220626fb6cc0d6630accd46
