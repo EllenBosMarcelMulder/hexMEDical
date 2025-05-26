@@ -56,7 +56,7 @@ waarin energie (hexENErgy), medische structuren (hexMEDical) en andere toepassin
 ## 🌐 CENTRALE VERWIJZING
 
 Alle projecten binnen deze structuur verwijzen naar:  
-[hexAI.nl GitHub repository](https://github.com/EllenBosMarcelMulder/hexAI.nl)  
+[https://github.com/EllenBosMarcelMulder/hexAI.nl](https://github.com/EllenBosMarcelMulder/hexAI.nl)  
 voor licentiebeheer, integriteitscheck, en uitbreiding.
 
 ---
@@ -67,4 +67,10 @@ Dit project is structureel, juridisch, cryptografisch en ethisch beschermd.
 Wie leeft, voelt en vrij beweegt, mag dit gebruiken.  
 Wie navolgt, hernoemt of imiteert zonder toestemming, wordt automatisch geblokkeerd.
 
----df0b1d3d4a3673d86f17774232527674dc380cf0bcbdd81633d2efbf18cf04d2
+---
+
+## 🔏 STRUCTUUR-VERIFICATIE
+
+SHA256-hash van dit document tot en met de laatste `---` hierboven:
+
+---57735f8ca223f03029d735bc23872f746b12ceeaa8fe2fae27ce9a06f7f2d147
