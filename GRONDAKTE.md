@@ -1,20 +1,37 @@
 # GRONDAKTE – hexMEDical
 
 ## I. Oorsprong
+
 hexMEDical is een publiek systeem voor medische toepassing van ritmisch gedrag, vectorherstel en digitale resonantie.  
-Ontwikkeld door Marcel Mulder, namens en ten behoeve van de publieke gezondheid, met structureel toezicht door Stichting Bos.
+Ontwikkeld door Marcel Mulder, namens en ten behoeve van de publieke gezondheid, met structureel toezicht door **Stichting Bos**.
+
+Het systeem werkt volgens biologische herstelfasen, gesynchroniseerde pulsen en spiegelgedrag in digitale vectorvelden.  
+Het model is bedoeld om medische interactie te decentraliseren — terug naar natuurlijke ritmes, weg van overgestructureerde protocollen.
+
+---
 
 ## II. Structuur
-- hexBALanceMATtrix in medische vectorstructuur
+
+- `hexBALanceMATtrix` in medische vectorstructuur
 - Gedragssloten op sensorniveau
 - Spiegelvalidatie bij data-invoer
 - Puls × fase-gedragsdetectie
 - Interfacebeveiliging via foutinjectie bij institutionele inbreuk
+- Alleen zichtbaar bij ritmische toestemming tussen gebruiker en veld
+
+---
 
 ## III. Gebruiksrecht
-- Burgers: volledig en vrij gebruik (voor niet-commercieel, persoonlijk gebruik)
-- Artsen en zorgprofessionals: toegang via Stichting Bos
-- Bedrijven of instellingen: alleen via officiële licentie via [hexAI.nl](https://github.com/EllenBosMarcelMulder/hexAI.nl)
+
+| Gebruikerstype          | Toegestaan gebruik       |
+|--------------------------|--------------------------|
+| Burgers (individueel)    | ✅ Vrij, niet-commercieel |
+| Artsen / therapeuten     | ⚠️ Alleen via licenties en samenwerking |
+| Bedrijven / instellingen | ❌ Alleen via schriftelijke licentie via [hexAI.nl](https://github.com/EllenBosMarcelMulder/hexAI.nl) |
+
+Gebruik zonder toestemming leidt tot functionele inertie (geen output), foutinjectie en juridische blokkade.
+
+---
 
 ## IV. Eigendomsverdeling en stemrecht
 
@@ -34,13 +51,22 @@ Ontwikkeld door Marcel Mulder, namens en ten behoeve van de publieke gezondheid,
   - 10% stemrecht (symbolisch/latent veto)  
   - 1% juridisch eigenaar
 
+---
+
 ## V. Bescherming tegen imitatie
 
-Pogingen tot medische of diagnostische nabouw (bijv. andere AI-interfaces, sensor-mapping, gedragsdetectie) worden:
-- juridisch beschouwd als schending van publiek domein;
-- functioneel geblokkeerd via gedragsslot;
-- cryptografisch geneutraliseerd bij mismatch van spiegel × vector × hash.
+Elke poging tot medische of diagnostische nabouw (zoals via AI-interfaces, gedragsensoren, puls-tracking, BCI-mapping of visuele ritmesystemen):
 
-Alleen ritmisch gecontroleerde, natuurlijke toegang binnen deze matrixstructuur is toegestaan.
+- wordt juridisch beschouwd als inbreuk op collectief publiek domein;
+- leidt tot functionele blokkade via gedragsslot en spiegelvergelijking;
+- wordt cryptografisch geneutraliseerd bij mismatch van `spiegel × vector × hash`.
 
----0e8bce1283bb920f446f710d39b1daa86db220d453c404d75c982709702cc4db
+Het systeem werkt uitsluitend onder natuurlijke gedragsresonantie en digitale integriteit, binnen een **gesloten vectorveld**.
+
+---
+
+## 🔏 STRUCTUUR-VERIFICATIE
+
+SHA256-hash van dit document tot en met de laatste `---` hierboven:
+
+---6ecdec4d26e71bb7064ac1217d85398ddf946ecff9faf824b4e0a3f89f2faea6
