@@ -4,41 +4,63 @@
 
 ---
 
-## Wat is hexMEDical?
+## 🧬 Wat is hexMEDical?
 
-hexMEDical is een open systeem gebaseerd op een ritmisch principe van herstel en balans. Het ondersteunt het natuurlijke ritme van het lichaam en de geest om stress, burn-out en overprikkeling te reguleren.
+hexMEDical is een open, publiek ritmesysteem dat fysieke en mentale overbelasting helpt reguleren.  
+Het werkt volgens een herhalings- en rustprincipe dat is afgestemd op het natuurlijke gedrag van het menselijk lichaam.
 
 ---
 
-## Kernprincipe
+## ⚙️ Kernprincipe
 
 > **Da(t) = Einput × fcycle / Rrest**
 
 Waarbij:
+- **Einput** = de hoeveelheid energie of belasting  
+- **fcycle** = frequentie van herhaling van prikkels  
+- **Rrest** = hersteltijd tussen cycli
 
-* **Einput** = de hoeveelheid energie of belasting
-* **fcycle** = de frequentie van herhaling van prikkels
-* **Rrest** = de tijd voor herstel tussen cycli
-
----
-
-## Doel
-
-* Bevorderen van ademhaling, hartslag en cognitieve rust
-* Ondersteunen van herstel bij overbelasting
-* Bieden van praktische richtlijnen voor dagelijks gebruik
+Deze formule is afgeleid van cyclische systemen binnen neurologie, hartslagregulatie en gedragsverwerking.
 
 ---
 
-## Gebruik en licentie
+## 🎯 Doelstellingen
 
-* Deze structuur is publiek beschikbaar onder een levenslicentie die verdere verspreiding en toepassing mogelijk maakt binnen ethische kaders.
-* Voor de volledige juridische structuur en governance verwijzen we naar het centrale platform:
-  **[hexAI.nl](https://hexAI.nl)**
-  Hier wordt de formele juridische en ethische basis verder uitgewerkt.
+- Herstel ondersteunen bij burn-out, overprikkeling en stress
+- Ritmische stabilisatie van ademhaling, hartslag en aandacht
+- Functioneren als medisch-ritmische geheugenlaag binnen grotere systemen (zoals hexAI)
 
 ---
 
-## Disclaimer
+## 📎 Juridische structuur en gebruik
 
-hexMEDical is geen vervanging voor medische behandeling. Raadpleeg bij gezondheidsklachten altijd een professional.e849c110db63eafc4dc49bcde690ed1bf317ef8991c253936f2fb30f118e421e
+Deze structuur valt onder de asymmetrische burgerlicentie van het hexAI-systeem.
+
+| Gebruikerstype               | Gebruik toegestaan? |
+|-----------------------------|---------------------|
+| Natuurlijke personen (burgers) | ✅ Ja |
+| Bedrijven / instellingen     | ❌ Alleen met licentie |
+| Overheden / universiteiten   | ❌ Alleen via schriftelijke toestemming |
+
+Raadpleeg voor juridische details:
+→ [`LICENTIE.md`](./LICENTIE.md)  
+→ [`LICENTIE_hexMEDical_INTerface_v1.0.md`](./LICENTIE_hexMEDical_INTerface_v1.0.md)
+
+Volledige juridische sturing vindt plaats via:  
+🔗 [https://github.com/EllenBosMarcelMulder/hexAI.nl](https://github.com/EllenBosMarcelMulder/hexAI.nl)
+
+---
+
+## ⚠️ Medische disclaimer
+
+hexMEDical is geen vervanging voor medische behandeling.  
+Raadpleeg bij gezondheidsklachten altijd een arts of specialist.  
+Deze interface is een **gedragsherstelmodel**, geen medische interventie.
+
+---
+
+## 🔏 STRUCTUUR-VERIFICATIE
+
+SHA256-hash van dit document tot en met de laatste `---` hierboven:
+
+---a2d2540debbe02fa1d358efdae10c28e251a3c55f110fcb7be7b3bad84cf4fd9
