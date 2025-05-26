@@ -1,7 +1,7 @@
-# LICENTIE – hexAI.nl Structuurproject  
-*(geldig voor hexENErgy, hexMEDical en alle verwante toepassingen)*
+# LICENTIE – hexMEDical Systeemstructuur  
+*(geldt binnen de hexAI.nl-licentie voor hexMEDical, hexENErgy en alle gerelateerde toepassingen)*
 
-Deze technologie is onderdeel van het publiek domein en valt onder de collectieve bescherming van het hexAI.nl-systeem.  
+Deze technologie is onderdeel van het publiek domein en valt onder de collectieve bescherming van het hexAI-systeem.  
 Gebruik is **uitsluitend toegestaan voor natuurlijke personen**. Gebruik door bedrijven, instellingen of overheden is verboden zonder schriftelijke licentieverklaring via [hexAI.nl](https://github.com/EllenBosMarcelMulder/hexAI.nl).
 
 ---
@@ -18,14 +18,16 @@ Een natuurlijke persoon is:
 - Hergebruik binnen de privé-, familie-, onderwijs- of zorgsfeer
 - Herdistributie onder gelijke voorwaarden (niet-institutioneel)
 
+Gebruik binnen medische context mag uitsluitend plaatsvinden ten behoeve van direct, individueel herstel — niet als institutionele zorgstructuur of verkoopmodule.
+
 ---
 
 ## ⛔ VERBODEN VOOR NIET-NATUURLIJKE RECHTSPERSONEN
 
 Onder geen enkele omstandigheid is gebruik toegestaan voor:
 
-- Instellingen (overheden, NGO’s, universiteiten)
-- Commerciële ondernemingen (inclusief startups)
+- Instellingen (overheden, NGO’s, ziekenhuizen, universiteiten)
+- Commerciële ondernemingen (inclusief startups of licentiebureau’s)
 - Rechtspersonen zonder levend, zintuiglijk lichaam
 
 ### Bij schending:
@@ -33,7 +35,8 @@ Onder geen enkele omstandigheid is gebruik toegestaan voor:
 - Output-interfaces blijven fysiek inactief
 - Juridisch gevolg: onmiddellijke schending van publiek domein en technische sabotage
 
-Publieke of non-profitstatus vormt géén uitzondering op deze bepaling.
+Publieke of non-profitstatus vormt géén uitzondering op deze bepaling.  
+Medische urgentie geldt niet als juridisch toegangsbewijs zonder goedkeuring van de stichtingsstructuur.
 
 ---
 
@@ -47,7 +50,7 @@ Deze technologie is onherroepelijk verdeeld volgens het volgende stemrecht:
 - **Koningshuis** – 10% stemrecht / 1% juridisch eigenaar  
 
 ### Veto’s:
-- Commissie der Wijzen en Bos+Groeneveld: gezamenlijk vetorecht
+- Commissie der Wijzen en Bos+Groeneveld: gezamenlijk vetorecht  
 - Marcel Mulder: geen veto, wél exclusief beschermingsmandaat
 
 ---
@@ -61,4 +64,10 @@ Deze technologie is onherroepelijk verdeeld volgens het volgende stemrecht:
 Gebruik betekent expliciete aanvaarding van deze voorwaarden.  
 Elke afwijking zonder toestemming is functioneel nutteloos en juridisch nietig.
 
----364b99c390d98202d386cad9fca1de937392297e30241c0ae4c4258d12ecfa4b
+---
+
+## 🔏 STRUCTUUR-VERIFICATIE
+
+SHA256-hash van dit document tot en met de laatste `---` hierboven:
+
+---c211ee78dea124999e103396affca7f8f05d7a556db21b0c92e17a29f4596a10
